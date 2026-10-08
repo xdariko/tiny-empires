@@ -1,0 +1,21 @@
+# Движок DragonRuby в публичный репозиторий не кладём (eula.txt, п. 2.6).
+# Храним только свою игру: всё игнорируется, кроме перечисленного ниже.
+/*
+!/.gitignore
+!/README.md
+!/mygame/
+
+# Артефакты запуска и сборки внутри mygame
+/mygame/logs/
+/mygame/tmp/
+/mygame/builds/
+/mygame/exceptions/
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
