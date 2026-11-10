@@ -10,6 +10,7 @@
 /mygame/tmp/
 /mygame/builds/
 /mygame/exceptions/
+/mygame/errors/
 
 # ОС и редакторы
 .DS_Store
